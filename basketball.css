@@ -43,7 +43,7 @@ button{
     border-radius: 5px;
     border: 2px solid rgba(44, 33, 201, 0.274);
     font-size: 6vw;
-    
+    touch-action: manipulation;
 }
 button:focus{
     outline: none;
